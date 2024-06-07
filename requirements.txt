@@ -1,0 +1,8 @@
+fastapi
+lmxl
+bs4
+requests
+pytz
+datetime
+re
+json
